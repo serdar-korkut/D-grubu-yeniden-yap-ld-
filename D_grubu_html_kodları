@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stil.css">
+    <title>H Grubu</title>
+</head>
+
+<body>
+    <div class="header">
+        <h1>2022 KATAR DÜNYA KUPASI </h1>
+        <p></p>
+    </div>
+
+    <div class="topnav">
+        <a href="#">A GRUBU</a>
+        <a href="#">B GRUBU</a>
+        <a href="#">C GRUBU</a>
+        <a href="#">D GRUBU</a>
+        <a href="#">E GRUBU</a>
+        <a href="#">F GRUBU</a>
+        <a href="#">G GRUBU</a>
+        <a href="#">H GRUBU</a>
+        <a href="#" style="float:right">Hakkımızda</a>
+        <a href="#" style="float:right">Galeri</a>
+        <a href="#" style="float:right">İletişim</a>
+        <a href="#" style="float:right">Ana Sayfa</a>
+    </div>
+
+    <div class="row">
+        <div class="leftcolumn">
+            <div id="ggrupp">
+                <h3 id="ggrup"> GRUP D </h3>
+            </div>
+            <div class="card">
+
+                <h2 class="ulkead">PORTEKİZ</h2>
+                <p id="pci2">
+                    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                </p>
+
+                <div class="solyazi">
+                    Eski kaptanı Didier Deschamps'ın teknik direktörlüğünü yaptığı Fransa, Avrupa Elemeleri'nde Ukrayna,
+                    Finlandiya, Bosna Hersek ve Kazakistan ile mücadele etti.
+                    Rusya'da düzenlenen son Dünya Kupası'nı müzesine götüren Fransa Milli Takımı, turnuvaya 15 kez
+                    katıldı.
+                    Organizasyon tarihinde 66 maça çıkan Fransa, bu müsabakalardan 34'ünü kazandı, 13'ünden
+                    beraberlikle,
+                </div>
+                <div class="bayrak"> <img src="fransa_bayraği.png" alt="fransa bayraği" width="350px" height="350px">
+                </div>
+                <div class="sagyaz">
+                    <p>19'undan mağlubiyetle ayrıldı. Son 6 turnuvanın tümüne katılan Fransa, Dünya Kupası tarihi
+                        boyunca
+                        120 gol attı, kalesinde 77 gol gördü.
+                        1998 ve 2018'de şampiyonluk ipini göğüsleyen Fransa, Dünya Kupası'nda bir kez ikincilikle
+                        yetindi,
+                        iki defa da üçüncü oldu..</p>
+                </div>
+
+            </div>
+            <div class="card">
+                <h2 class="ulkead">DANİMARKA</h2>
+                <p id="pci2">
+                    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                </p>
+
+                <div class="solyazi">
+                    Adaları ve Moldova ile F Grubu'nda mücadele etti.
+                    Oynadığı 10 karşılaşmada 9 galibiyet ve 1 mağlubiyet yaşayan Danimarka, 27 puanla ilk sırada yer
+                    alarak Katar 2022 biletini cebine koydu.
+                    Bu maçlarda 30 kez fileleri havalandıran Danimarka, kalesinde ise sadece 3 gole izin verdi.
+                </div>
+                <div class="bayrak"> <img src="danimarka_bayragi.png" alt="danimarka bayrağı" width="350px"
+                        height="350px"> </div>
+                <div class="sagyaz">
+                    <p></p>
+                </div>
+
+
+            </div>
+            <div class="card">
+                <h2 class="ulkead">TUNUS</h2>
+                <p id="pci2">
+                    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                </p>
+
+                <div class="solyazi">
+                    Jalel Kadri'nin teknik direktörlüğünü yaptığı Tunus Milli Takımı, Afrika Elemeleri ikinci turunda
+                    Ekvator Ginesi, Zambiya
+                    ve Moritanya ile mücadele etti.Oynadığı müsabakalarda 4 galibiyet, 1 beraberlik ve 1 yenilgi yaşayan
+                    Afrika ekibi, B Grubu'nu 13 puanla lider tamamladı.
+                    Üçüncü turda Mali ile karşılaşan Tunus, ilk maçta 1-0 mağlup ettiği rakibiyle rövanşta 0-0 berabere
+                    kaldı ve Katar 2022 bileti almayı başardı.
+                </div>
+                <div class="bayrak"> <img src="tunus_bayragi.png" alt="kore bayrağı" width="350px" height="350px">
+                </div>
+                <div class="sagyaz">
+                    <p></p>
+                </div>
+
+
+
+            </div>
+            <div class="card">
+                <h2 class="ulkead">AVUSTRALYA</h2>
+                <p id="pci2">
+                    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                </p>
+
+                <div class="solyazi">
+                    Graham Arnold'un teknik direktörlüğünü üstlendiği Avustralya, Asya Elemeleri'nde epey meşakkatli bir
+                    yolu aştıktan sonra 2022 Katar biletini almayı başardı.
+                    İkinci turda Kuveyt, Ürdün, Nepal ve Tayvan'ın yer aldığı B Grubu'nu 24 puanla namağlup lider
+                    tamamlayan "Kangurular" üçüncü tura yükseldi.
+                    Bu turda Suudi Arabistan, Japonya, Umman, Çin ve Vietnam ile mücadele eden Avustralya, grubu 15
+
+                </div>
+                <div class="bayrak"> <img src="avustralya_bayragi.jfif" alt="avustralya bayrağı" width="350px" height="350px"> </div>
+                <div class="sagyaz">
+                    <p>puanla 3. sırada bitirdi ve adını 4. tura yazdırdı.
+                        Dördüncü turda Birleşik Arap Emirlikleri'ne 2-1, kıtalararası play-off'ta ise normal süresi ve
+                        uzatma bölümleri 0-0 tamamlanan maçta Peru'ya penaltılarda 5-4 üstünlük
+                        kuran "Kangurular", 2022 Dünya Kupası'nda oynama hakkı elde etti.
+                        Eleme müsabakalarında fileleri 45 kez sarsan Avustralya, kalesinde ise 12 gol gördü.</p>
+                </div>
+
+
+
+
+            </div>
+        </div>
+        <div class="rightcolumn">
+            <div>
+                <div id="sagk">
+                    <h2>DÜNYANIN KUPASI</h2>
+                </div>
+                <div class="fakeimg" style="height: 300px;">
+                    <img src="dünya_kupasi.jfif" width="300px" height="300px">
+                    <div class="fakeimg" style="height: 300px;">
+
+                    </div>
+
+                </div>
+                <div class="card2">
+                    <div id="sagk2">
+                        <h2>POPÜLER FOTOĞRAFLAR</h2>
+                    </div>
+                    <p id="pci"> ------------------------------------</p>
+                    <div class="fakeimg">
+                        <img src="populerfoto.jfif" alt="" width="250px" height="250px">
+                    </div>
+
+                    <div class="fakeimg">
+                        <img src="populerfoto2.jfif" alt="" width="250px" height="250px">
+                    </div>
+                    <div class="fakeimg">
+                        <img src="populerfoto3.jpg" alt="" width="250px" height="250px">
+                    </div>
+                    <div class="fakeimg">
+                        <img src="populerfoto4.jpg" alt="" width="250px" height="250px">
+                    </div>
+                    <div class="fakeimg">
+                        <img src="populerfoto5.jpg" alt="" width="250px" height="250px">
+                    </div>
+                    <div class="fakeimg">
+                        <img src="populerfoto6.jfif" alt="" width="250px" height="250px">
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="footer">
+
+            <ul id="footer-list">
+                <li><a href=" https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/qatar2022"><img
+                            src="watsapp_icon.png" alt="whatsapp-icon"></a></li>
+                <li><img src="discord_icon.png" alt="dizord_icon"></li>
+                <li><img src="facebook_icon.png" alt="facebook_icon"></li>
+            </ul>
+        </div>
+</body>
+
+</html>
